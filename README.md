@@ -1,2 +1,3 @@
 **Ce projet a été réalisé par Louis Lavallée pour le club ASUQTR**
 
+Ce projet vise à remplacer le PCB de distribution de puissance du sous-marin ASUQTR. L'ancienne version comportait une killswitch responsable de couper l'alimentation des moteurs et autres actionneurs. Le composant utilisé s'est avérée sous-dimensionné pour les contraintes qu'il subissait. Un nouveau circuit a été conçu par Pietro Lacommande, un membre be l'équipe ASUQTR. Ce
