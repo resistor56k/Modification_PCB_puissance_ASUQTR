@@ -1,6 +1,8 @@
 # Modification du PCB de puissance - Sous-marin autonome (ASUQTR)
 
-**Réalisé par Louis Lavallée et Pietro Lacommande**
+## Contributions
+**Pietro Lacommande :** Conception des circuits\
+**Louis Lavallée :** Adaptation des schémas existants au nouveau circuit et modification du layout du PCB
 
 ## Contexte du projet
 Ce projet fut réalisé dans le câdre du développement continu du sous-marin autonome du club ASUQTR. 
