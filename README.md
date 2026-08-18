@@ -3,7 +3,7 @@
 **Réalisé par Louis Lavallée et Pietro Lacommande**
 
 ## Contexte du projet
-
+Ce projet fut réalisé dans le câdre du développement continu du sous-marin autonome du club ASUQTR. 
 
 ## Objectif du projet
 
