@@ -1,6 +1,4 @@
-# Conception du PCB de contrôle - Sous-marin autonome (ASUQTR)
-
-**Projet de fin d'études en équipe - Génie électrique (UQTR)**
+# Modification du PCB de puissance - Sous-marin autonome (ASUQTR)
 
 **Réalisé par Louis Lavallée et Pietro Lacommande**
 
