@@ -15,6 +15,7 @@ Parmi les circuits présents dans le sous-marin, on retrouve le PCB de puissance
 
 ## Documentation
 
+L'ancienne version du PCB de puissance a été conçu par Bastien Côté, un ancien membre du club étudiant ASUQTR. Tout les circuits à l'exception de la killswitch ont été conservés pour la nouvelle version. 
 
 ## Visuel 3D du nouveau PCB de contrôle
 
