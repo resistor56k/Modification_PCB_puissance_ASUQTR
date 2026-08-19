@@ -10,12 +10,9 @@ Ce projet fut réalisé dans le câdre du développement continu du sous-marin a
 ## Objectif du projet
 Parmi les circuits présents dans le sous-marin, on retrouve le PCB de puissance responsable de la distribution de l'énergie des batteries à tout les systèmes internes. Il comporte notement un circuit de killswitch permettant de déconnecter les moteurs de leur alimentation électrique et d'immobilier le sous-marin. Sur l'ancienne version du PCB de puissance, le circuit de killswitch s'est avéré sous-dimensionné pour les fortes puissances qu'elle doit supporter. Le but de ce projet est de remplacer cette killswitch sous-dimensionnée par un nouveau circuit plus adapté et robuste.
 
-### Sous-objectifs:
-
-
 ## Documentation
 
 L'ancienne version du PCB de puissance a été conçu par Bastien Côté, un ancien membre du club étudiant ASUQTR. Tout les circuits à l'exception de la killswitch ont été conservés pour la nouvelle version. 
 
-## Visuel 3D du nouveau PCB de contrôle
-<img src="3D_New_PCB_Power_dessus.png" width="500" alt="Nouvelle version du PCB de contrôle (vue du dessus)" title="Nouvelle version du PCB de contrôle (vue du dessus)"> <img src="3D_New_PCB_Power_dessous.png" width="500" alt="Nouvelle version du PCB de contrôle (vue du dessous)" title="Nouvelle version du PCB de contrôle (vue du dessous)">
+## Visuel 3D de la nouvelle version du PCB de puissance
+<img src="3D_New_PCB_Power_dessus.png" width="600" alt="Version modifiée du PCB de puissance (vue du dessus)" title="Version modifiée du PCB de puissance (vue du dessus)"> <img src="3D_New_PCB_Power_dessous.png" width="600" alt="Version modifiée du PCB de puissance (vue du dessous)" title="Version modifiée du PCB de puissance (vue du dessous)">
