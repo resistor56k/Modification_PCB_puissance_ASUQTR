@@ -1,14 +1,14 @@
 # Modification du PCB de puissance - Sous-marin autonome (ASUQTR)
 
 ## Contributions
-**Pietro Lacommande :** Conception des circuits\
+**Pietro Lacommande :** Conception des circuits modifiés\
 **Louis Lavallée :** Adaptation des schémas existants au nouveau circuit et modification du layout du PCB
 
 ## Contexte du projet
 Ce projet fut réalisé dans le câdre du développement continu du sous-marin autonome du club étudiant [ASUQTR](https://oraprdnt.uqtr.uquebec.ca/portail/gscw031?owa_no_site=8035). L'objectif du club ASUQTR est de participer à la compétition internationale [Robosub](https://robosub.org/) où chaque équipe doit concevoir un sous-marin et lui faire accomplir des tâches et missions de manière entièrement autonome.
 
 ## Objectif du projet
-Parmi les circuits présents dans le sous-marin, on retrouve le PCB de puissance responsable de la distribution de l'énergie des batteries à tout les systèmes internes. Il comporte notement un circuit de killswitch permettant de déconnecter les moteurs de leur alimentation électrique et d'immobilier le sous-marin. Sur l'ancienne version du PCB de puissance, le circuit de killswitch s'est avéré sous-dimensionné pour les fortes puissances qu'elle doit supporter. Le but de ce projet est de remplacer cette killswitch sous-dimensionnée par un nouveau circuit plus adapté et robuste.
+Parmi les circuits présents dans le sous-marin, on retrouve le PCB de puissance responsable de la distribution de l'énergie des batteries à tout les systèmes internes. Il comporte notamment un circuit de killswitch permettant de déconnecter les moteurs de leur alimentation électrique et d'immobiliser le sous-marin. Sur l'ancienne version du PCB de puissance, le circuit de killswitch s'est avéré sous-dimensionné pour les forts appels de courant qu'elle doit supporter. Le but de ce projet est de remplacer cette killswitch sous-dimensionnée par un nouveau circuit plus adapté et robuste.
 
 ## Documentation
 [Schéma du circuit de killswitch](Circuit_killswitch.pdf)\
@@ -17,7 +17,7 @@ Parmi les circuits présents dans le sous-marin, on retrouve le PCB de puissance
 **Schémas et layout du PCB réalisés sur Altium Designer Professionnal**\
 **Fabrication et assemblage partiel du PCB par JLCPCB**
 
-L'ancienne version du PCB de puissance a été conçu par Bastien Côté, un ancien membre du club étudiant ASUQTR. Tout les circuits à l'exception de la killswitch ont été conservés pour la nouvelle version. 
+L'ancienne version du PCB de puissance a été conçu par Bastien Côté, un ancien membre du club étudiant ASUQTR. Tous les circuits à l'exception de la killswitch ont été conservés pour la nouvelle version. 
 
 ## Visuel 3D de la nouvelle version du PCB de puissance
 <img src="3D_New_PCB_Power_dessus.png" width="600" alt="Version modifiée du PCB de puissance (vue du dessus)" title="Version modifiée du PCB de puissance (vue du dessus)"> <img src="3D_New_PCB_Power_dessous.png" width="600" alt="Version modifiée du PCB de puissance (vue du dessous)" title="Version modifiée du PCB de puissance (vue du dessous)">
